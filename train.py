@@ -1,3 +1,4 @@
+#!C:\Python311\python.exe
 from tensorflow.keras.optimizers import SGD
 from tensorflow.keras.layers import Dense, Activation, Dropout
 from tensorflow.keras.models import Sequential
