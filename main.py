@@ -1,3 +1,4 @@
+#!C:\Python311\python.exe
 from tensorflow.keras.models import load_model
 from nltk.stem import WordNetLemmatizer
 import random
